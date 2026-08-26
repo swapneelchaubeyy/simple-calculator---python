@@ -15,6 +15,9 @@ print("The multiplication of two number is :",mul)
 div = a/b
 print("The division of two number is :",div)
 
+divv = a//b
+print("The division of two number is :",divv)
+
 modulo = a%b
 print("The modulo of two number is :",modulo)
 
